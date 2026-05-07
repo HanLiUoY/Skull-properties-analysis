@@ -1,0 +1,11 @@
+# Local data and generated analysis outputs
+*.mat
+*.nii
+*.nii.gz
+results/
+results_clean/
+results_properties/
+
+# MATLAB/editor temporary files
+*.asv
+*.m~
